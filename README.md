@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-<a href="https://github.com/rengetsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengetsu&theme=dafaultt&hide=css"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=rengetsu&&show_icons=true&theme=default&line_height=35)](https://maxbase.org)
+<a href="https://github.com/rengetsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengetsu&theme=dafaultt&hide=css"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=rengetsu&&show_icons=true&theme=default&line_height=40)](https://maxbase.org)
 
 ## 📚 I am familiar with this:
 
