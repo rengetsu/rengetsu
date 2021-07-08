@@ -1,9 +1,11 @@
 # 👋 Hi there!
 <a href="https://github.com/rengetsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengetsu&theme=graywhite&hide=blade,C&langs_count=3)"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=rengetsu&&show_icons=true&theme=graywhite&line_height=27)](https://maxbase.org)
+
 ## :star: About me :
   *  👨‍💻 Work as a *Junior Software Engineer* at **Eltesta**
   * :game_die: Trying to create games with *Unity* game engine at **GameRocket** 
   * :mortar_board: Bachelor of *Information Systems* at **Vilnius Gediminas Technical University**
+
 ## 📚 Experience :
 I have *beginner/intermediate* experience with these technologies:
 
@@ -15,3 +17,7 @@ I have *beginner/intermediate* experience with these technologies:
 <img align="left" src="https://i.ibb.co/pjwf1VB/unity-logo.png" width="60"/>
 <img align="left" src="https://user-images.githubusercontent.com/33583122/122727486-bee09180-d27f-11eb-8d7d-21589dd15793.png" width="65"/>
 <img align="left" src="https://i.ibb.co/1rtWX0F/OpenGL.png" width="140"/>
+
+<br/><br/><br/>
+
+![](https://komarev.com/ghpvc/?username=rengetsu)
