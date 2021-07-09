@@ -3,11 +3,11 @@
 
 ## :star: About me :
   *  👨‍💻 Work as a *Junior Software Engineer* at **Eltesta**
-  * :game_die: Trying to create games with *Unity* game engine at **GameRocket** 
+  * :game_die: Practice game development with *Unity game engine* at **GameRocket** 
   * :mortar_board: Bachelor of *Information Systems* at **Vilnius Gediminas Technical University**
 
 ## 📚 Experience :
-I have *beginner/intermediate* experience with these technologies:
+I have *beginner* experience with these technologies:
 
 <img align="left" src="https://github.com/Alaamimi/Alaamimi/blob/main/Src/1200px-Java_Logo.svg.png" width="32"/>
 <img align="left" src="https://i.ibb.co/7Y1Km6Y/php.png" width="60"/>
