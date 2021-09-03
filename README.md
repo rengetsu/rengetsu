@@ -9,7 +9,6 @@
 ## 📚 Experience :
 I have *beginner* experience with these technologies:
 
-<img align="left" src="https://github.com/Alaamimi/Alaamimi/blob/main/Src/1200px-Java_Logo.svg.png" width="32"/>
 <img align="left" src="https://i.ibb.co/7Y1Km6Y/php.png" width="60"/>
 <img align="left" src="https://user-images.githubusercontent.com/33583122/122710804-b2513e80-d269-11eb-8f44-a464f830fc7b.png" width="60"/>
 <img align="left" src="https://github.com/Alaamimi/Alaamimi/blob/main/Src/1200px-ISO_C%2B%2B_Logo.svg.png" width="53"/>
