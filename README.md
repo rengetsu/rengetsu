@@ -9,7 +9,6 @@
   * :game_die: Practice game development with *Unity game engine* at **GameRocket** 
 
 ## 📚 Experience :
-I have *beginner* experience with these technologies:
 
 <img align="left" src="https://user-images.githubusercontent.com/33583122/122727486-bee09180-d27f-11eb-8d7d-21589dd15793.png" width="65"/>
 <img align="left" src="https://github.com/Alaamimi/Alaamimi/blob/main/Src/1200px-ISO_C%2B%2B_Logo.svg.png" width="53"/>
