@@ -2,9 +2,11 @@
 <a href="https://github.com/rengetsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengetsu&theme=graywhite&hide=blade,C&langs_count=3)"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=rengetsu&&show_icons=true&theme=graywhite&line_height=27)](https://maxbase.org)
 
 ## :star: About me :
+
+  *  :microscope: Learning *Microsoft .NET* and *C#* **24/7**
   *  👨‍💻 Work as a *Junior Software Engineer* at **Eltesta**
+  * :mortar_board: Master of *Information Systems Software Engineering* at **Vilnius Tech**
   * :game_die: Practice game development with *Unity game engine* at **GameRocket** 
-  * :mortar_board: Bachelor of *Information Systems* at **Vilnius Gediminas Technical University**
 
 ## 📚 Experience :
 I have *beginner* experience with these technologies:
