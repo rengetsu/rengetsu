@@ -4,7 +4,6 @@
 ## :star: About me :
 
   *  :microscope: Learning *.NET* and **.NET Nanoframework**
-  *  👨‍💻 Work as a *Junior Software Engineer* at **Eltesta**
   * :mortar_board: Master of *Information Systems Software Engineering* at **Vilnius Tech**
   * :game_die: Practice game development with *Unity game engine* at **GameRocket** 
 
