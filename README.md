@@ -1,5 +1,5 @@
 # 👋 Hello, World!
-<a href="https://github.com/rengetsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengetsu&theme=graywhite&hide=blade,C&langs_count=3)"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=rengetsu&&show_icons=true&theme=graywhite&line_height=27)](https://maxbase.org)
+<a href="https://github.com/rengetsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengetsu&theme=radical&hide=blade,C&langs_count=3)"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=rengetsu&&show_icons=true&theme=radical&line_height=27)](https://maxbase.org)
 
 ## :star: About me :
 
