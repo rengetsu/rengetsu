@@ -3,7 +3,7 @@
 
 ## :star: About me :
 
-  *  :microscope: Learning *.NET Core* and **.NET Nanoframework**
+  *  :microscope: Learning *.NET Core* and **.NET Framework**
   *  :desktop_computer: Working on *Full stack project* using **.NET/C#**
   * :mortar_board: Master of *Information Systems Software Engineering* at **Vilnius Tech**
   * :game_die: Practice game development with *Unity game engine* at **GameRocket** 
