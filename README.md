@@ -4,7 +4,7 @@
 ## :star: About me :
 
   *  :microscope: Learning *.NET Core* and **.NET Framework**
-  *  :desktop_computer: Started working as a *Solutions Engineer* at **SEB**
+  *  :desktop_computer: Working here on building *solutions* with **.NET**
   * :mortar_board: Master of *Information Systems Software Engineering* at **Vilnius Tech**
   * :game_die: Practice game development with *Unity game engine* at **GameRocket** 
 
