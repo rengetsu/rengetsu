@@ -3,8 +3,8 @@
 
 ## :star: About me :
 
-  *  :microscope: Learning *C#* and **.NET**
-  *  :desktop_computer: Working here in my *spare time* to develop **solutions**
+  *  :microscope: Learning *Data Engineering* and **.NET**
+  *  :desktop_computer: Working as *Solutions Developer* at **SEB**
   * :mortar_board: Master of *Information Systems Software Engineering* at **Vilnius Tech**
   * :game_die: Practice game development with *Unity game engine* at **GameRocket** 
 
