@@ -10,12 +10,7 @@
 
 ## 📚 Experience :
 
-<img align="left" src="https://i.ibb.co/f0wnmqr/c_sharp.png" width="60"/>
-<img align="left" src="https://i.ibb.co/PwLkRjK/NET-Core-Logo-svg.png" width="62"/>
-<img align="left" src="https://i.ibb.co/rmf4NHW/net-framework.png" width="62"/>
-<img align="left" src="https://i.ibb.co/GQNPWq9/Microsoft-Azure-svg.png" width="60"/>
-<img align="left" src="https://i.ibb.co/cF5SFB0/sql.png" width="50"/>
-<img align="left" src="https://i.ibb.co/yyDLn2y/unity.png" width="60"/>
+<img align="left" src="https://i.ibb.co/f0wnmqr/c_sharp.png" width="60"/><img align="left" src="https://i.ibb.co/cF5SFB0/sql.png" width="50"/><img align="left" src="https://i.ibb.co/yyDLn2y/unity.png" width="60"/>
 
 <br/><br/><br/>
 
