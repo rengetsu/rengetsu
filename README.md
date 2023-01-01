@@ -1,9 +1,9 @@
-# 👋 Hello, World!
-<a href="https://github.com/rengetsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengetsu&theme=radical&hide=blade,C&langs_count=3)"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=rengetsu&&show_icons=true&theme=radical&line_height=27)](https://maxbase.org)
+# 🚀 Learning
+<a href="https://github.com/rengetsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengetsu&theme=highcontrast&hide=C&langs_count=4)"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=rengetsu&&show_icons=true&theme=highcontrast&line_height=33)](https://maxbase.org)
 
 ## :star: About me :
 
-  *  :microscope: Learning *Data Engineering* and **Cloud**
+  *  :microscope: Learning *.NET*, *C#*, *Data* and **Cloud**
   *  :desktop_computer: Working as *Solutions Developer* at **SEB**
   * :mortar_board: Master of *Information Systems Software Engineering* at **Vilnius Tech**
   * :game_die: Practice game development with *Unity game engine* at **GameRocket** 
