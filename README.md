@@ -4,7 +4,7 @@
 ## :star: About me :
 
   * :desktop_computer: Working as *Solutions Developer* at **SEB**
-  * :microscope: Learning *C#*, *Data Engineering* and **Cloud Computing**
+  * :microscope: Learning *Data Engineering* and **Cloud Computing**
   * :mortar_board: Master of *Information Systems Software Engineering* at **Vilnius Tech**
   * :game_die: Practice game development with *Unity game engine* at **GameRocket** 
 
