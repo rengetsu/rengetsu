@@ -1,7 +1,7 @@
 # 🗃️ Archive of student times
 ### This profile is an archive of my student work during my university studies
 
-<a href="https://github.com/rengetsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengetsu&theme=dark&hide=C&langs_count=4)"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=rengetsu&&show_icons=true&theme=dark&line_height=33)](https://maxbase.org)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rengetsu&theme=dark&hide=C&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=rengetsu&&show_icons=true&theme=dark&line_height=33)](https://maxbase.org)
 
 ## ⭐ About me :
 
