@@ -7,7 +7,7 @@
 
 ## ⭐ About me :
 
-  * :desktop_computer: Working as *Senior Data Engineer* at **PlatformaLT**
+  * :desktop_computer: Working as *Senior Data Engineer* at **IBM**
   * :microscope: Learning *Data Engineering* and **Cloud Computing**
   * :mortar_board: Master of *Information Systems Software Engineering* at **Vilnius Tech**
   * :game_die: Practice game development with *Unity game engine* at **GameRocket** 
